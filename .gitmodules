@@ -1,0 +1,6 @@
+[submodule "boriguri-blog-front"]
+	path = boriguri-blog-front
+	url = https://github.com/Bori-github/boriguri-blog-front.git
+[submodule "boriguri-blog-api"]
+	path = boriguri-blog-api
+	url = https://github.com/Bori-github/boriguri-blog-api.git
